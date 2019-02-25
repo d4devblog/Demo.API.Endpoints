@@ -1,0 +1,14 @@
+{
+  "Reviews":[
+    {
+      "Source": "Globomantics",
+      "Rating": 5,
+      "Text": "This product is amazing, can't rate it highly enough."
+    },
+    {
+      "Source": "MyReviews",
+      "Rating": 4,
+      "Text": "The price is good, but the quality could be a bit better. These are not budget products."
+    }
+  ]
+}
