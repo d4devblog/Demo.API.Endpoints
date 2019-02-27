@@ -1,13 +1,43 @@
 [
   {
-    "Source": "Globomantics",
+    "Source": "Globomantics Social",
     "Rating": 5,
     "Text": "This product is amazing, can't rate it highly enough."
   },
   {
-    "Source": "MyReviews",
+    "Source": "My-Reviews",
     "Rating": 4,
     "Text": "The price is good, but the quality could be a bit better. These are not budget products."
+  },
+  {
+    "Source": "My-Reviews",
+    "Rating": 4,
+    "Text": "Great product, and quick delivery. Can't fault the service."
+  },
+  {
+    "Source": "BookIt",
+    "Rating": 2,
+    "Text": "First item was faulty, had to send it back."
+  },
+  {
+    "Source": "Globomantics Social",
+    "Rating": 5,
+    "Text": "The service really is the best!"
+  },
+  {
+    "Source": "Globomantics Social",
+    "Rating": 5,
+    "Text": "I will be back soon for more..."
+  },
+  {
+    "Source": "Globomantics Social",
+    "Rating": 1,
+    "Text": "Really annoyed! The week after I purchased, it was on sale."
+  },
+  {
+    "Source": "My-Reviews",
+    "Rating": 4,
+    "Text": "This is one of the best purchases I have ever made."
   }
 ]
 
